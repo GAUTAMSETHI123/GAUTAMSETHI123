@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautam Sethi</h1>
-<h3 align="center">Inquisitive, Technophile computer science final year student skilled in leadership with a strong foundation in
+<h4 align="center">Inquisitive, Technophile computer science final year student skilled in leadership with a strong foundation in
 programming logic, DevOps and Cloud Computing, having hands on experience on AWS, Docker, Jenkins, RedHat Linux, VCS, shell scripting and many more. Innovative, creative and willing to contribute new ideas.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
