@@ -1,4 +1,4 @@
-![MasterHead](https://c.tenor.com/VPlOFfWrQEsAAAAC/amazon-prime.gif)
+
 <h1 align="left">Hi 👋, I'm Gautam Sethi</h1>
 <h4 align="left" font face = "Times New Roman" size = "5">Inquisitive, Technophile computer science final year student skilled in leadership with a strong foundation in programming logic, DevOps and Cloud Computing, having hands on experience on Amazon Web Services, Docker, Jenkins, RedHat Linux, VCS, shell scripting and many more. Innovative, creative and willing to contribute new ideas.</font><br /></h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
