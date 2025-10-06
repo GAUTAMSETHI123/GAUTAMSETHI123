@@ -3,22 +3,34 @@
 
 Welcome to my GitHub!
 </h1>
-<h4 align="left" font face = "Times New Roman" size = "5">Inquisitive, Technophile computer science final year student skilled in leadership with a strong foundation in programming logic, DevOps and Cloud Computing, having hands on experience on Amazon Web Services, Docker, Jenkins, RedHat Linux, VCS, shell scripting and many more. Innovative, creative and willing to contribute new ideas.</font><br /></h4>
+<h4 align="left" font face = "Times New Roman" size = "5">Welcome to my GitHub!
+
+I'm on a journey from writing code to architecting, deploying, and scaling modern cloud-native applications. What started with `console.log("Hello World")` has evolved into building full-stack solutions, containerizing applications, automating infrastructure, and embracing DevOps principles.
+
+Here you'll find:
+
+- 🧠 Projects that reflect my growth from developer to cloud engineer  
+- ⚙️ Experiments with cloud platforms (AWS | Azure | GCP)  
+- 📦 Dockerized apps and CI/CD pipelines  
+- ☁️ Infrastructure as Code (Terraform, Pulumi, CDK)  
+- 🛡️ Secure, scalable architectures following best practices  
+
+### 🔄 Always building. Always learning.
+
+Whether you're a developer making the same transition, or a cloud-native expert stopping by — feel free to explore, contribute, or connect!
+
+---</font><br /></h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamsethi123&label=Profile%20views&color=0e75b6&style=flat" alt="gautamsethi123" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Big Data, Cloud, DevOps Practices**
-
 - 👯 I’m looking to collaborate on **Open Source projects**
 
 - 💬 Ask me about **AWS,GCP, Azure, Docker, Virtualisation, JAVA, Kubernetes**
 
 - 📫 How to reach me **gautamsethigagan@gmail.com**
-
-- 📄 Know about my experiences [GautamSethiResume](GautamSethiResume)
 
 - ⚡ Fun fact **I never get bored of Tech**
 
