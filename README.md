@@ -1,9 +1,7 @@
 
 <h1 align="left">Hi 👋, I'm Gautam Sethi - 👨‍💻 From Dev to Cloud ☁️
-
-Welcome to my GitHub!
+<h2>Welcome to my GitHub</h2>
 </h1>
-<h4 align="left" font face = "Times New Roman" size = "5">Welcome to my GitHub!
 
 I'm on a journey from writing code to architecting, deploying, and scaling modern cloud-native applications. What started with `console.log("Hello World")` has evolved into building full-stack solutions, containerizing applications, automating infrastructure, and embracing DevOps principles.
 
